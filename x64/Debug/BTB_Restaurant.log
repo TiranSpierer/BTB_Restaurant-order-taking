@@ -1,0 +1,18 @@
+﻿  pch.cpp
+  Beer.cpp
+  BTB_Restaurant.cpp
+  BTB_RestaurantDlg.cpp
+  Burger.cpp
+  Cola.cpp
+  Drinks.cpp
+  Falafel.cpp
+  Food.cpp
+  Order_Dialog.cpp
+C:\Users\tspie\source\repos\BTB_Restaurant\Order_Dialog.cpp(971,40): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Shawarma.cpp
+  Signature_Dialog.cpp
+C:\Users\tspie\source\repos\BTB_Restaurant\Signature_Dialog.cpp(96,41): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Table.cpp
+  Water.cpp
+  Generating Code...
+  BTB_Restaurant.vcxproj -> C:\Users\tspie\source\repos\BTB_Restaurant\x64\Debug\BTB_Restaurant.exe

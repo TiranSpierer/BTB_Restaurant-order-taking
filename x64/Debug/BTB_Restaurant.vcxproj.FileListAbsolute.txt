@@ -1,0 +1,4 @@
+C:\Users\Tiran\source\repos\BTB_Restaurant\x64\Debug\BTB_Restaurant.exe
+C:\Users\Tiran\source\repos\BTB_Restaurant\x64\Debug\BTB_Restaurant.pdb
+C:\Users\tspie\source\repos\BTB_Restaurant\x64\Debug\BTB_Restaurant.exe
+C:\Users\tspie\source\repos\BTB_Restaurant\x64\Debug\BTB_Restaurant.pdb
